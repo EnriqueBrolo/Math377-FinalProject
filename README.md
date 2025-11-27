@@ -14,7 +14,7 @@ cd Math377-FinalProject
 
 Change S/R values in csv file depending on the resource: 
 ```bash
-math377/data.csv
+data.csv
 ```
 
 Label each resource, then set S-Values and R-Values in the following format:
