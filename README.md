@@ -1,7 +1,6 @@
 # Math 377 Project
 
-## Modeling Victoria's Growth Using Logistic Growth & the P–S Model
-
+## Using the P-S model to estimate Victoria's Carrying Capacity
 ## How to Use
 
 1. **Clone Repo**
