@@ -17,7 +17,7 @@ Change S/R values in csv file depending on the resource in:
 math377/data.csv
 ```
 
-Label each above the values with 
+Label each resource, then set S-Values and R-Values in the following format:
 ```
 #ResourceName
 s_a,s_b,r_a,r_b
