@@ -12,7 +12,7 @@ cd Math377-FinalProject
 
 2.**Edit Values**
 
-Change S/R values in csv file depending on the resource: 
+Change S/R values in csv file depending on the resource in: 
 ```bash
 math377/data.csv
 ```
