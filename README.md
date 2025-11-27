@@ -1,6 +1,14 @@
-Math 377 Project
-Modeling Victoria's Growth Using Logistic Growth & the P–S Model
-How to use:
+# Math 377 Project
+
+## Modeling Victoria's Growth Using Logistic Growth & the P–S Model
+
+## How to Use
+
+1. **Clone Repo**
+```bash
+git clone <your-repo-url>
+cd <repo-name>
+
 
 Clone repo
 git clone <your-repo-url>
