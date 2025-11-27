@@ -6,19 +6,28 @@
 
 1. **Clone Repo**
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/EnriqueBrolo/Math377-FinalProject/edit/master/README.md
+cd Math377-FinalProject
+```
 
+2.**Edit Values**
 
-Clone repo
-git clone <your-repo-url>
-cd <repo-name>
-
-Change S/R values in csv file depending on the resource, stored as s_a,s_b,r_a,r_b
+Change S/R values in csv file depending on the resource: 
+```bash
 math377/data.csv
+```
 
 Label each above the values with 
+```
 #ResourceName
+s_a,s_b,r_a,r_b
+```
 Example:
+```
 #Water
 0.00050395,0.000205,216.7, 250
+```
+3.**Run graphs.py**
+```bash
+python graphs.py
+```
