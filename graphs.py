@@ -10,7 +10,7 @@ resources = []
 name = ""
 a_values = np.linspace(0, 2500000, 1000)
 
-with open('math377\data.csv', mode='r', newline='') as file:
+with open('data.csv', mode='r', newline='') as file:
         csvFile = csv.reader(file)
         for row in csvFile:
             if row and row[0].startswith("#R"):
