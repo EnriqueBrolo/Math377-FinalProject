@@ -10,7 +10,7 @@ git clone https://github.com/EnriqueBrolo/Math377-FinalProject/edit/master/READM
 cd Math377-FinalProject
 ```
 
-2.**Edit Values**
+2. **Edit Values**
 
 Change S/R values in csv file depending on the resource in: 
 ```bash
@@ -27,7 +27,7 @@ Example:
 #Water
 0.00050395,0.000205,216.7, 250
 ```
-3.**Run graphs.py**
+3. **Run graphs.py**
 ```bash
 python graphs.py
 ```
