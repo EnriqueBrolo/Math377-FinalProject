@@ -11,7 +11,7 @@ def ps_curve(a, res):
 cc = []
 cc_total = 0
 name = ""
-a_values = np.linspace(0, 2500000, 1000)
+a_values = np.linspace(200000, 1250000, 1000)
 plt.figure()
 color_cycle = plt.rcParams['axes.prop_cycle'].by_key()['color']
 
@@ -40,7 +40,7 @@ with open('data.csv', mode='r', newline='') as file:
 
 plt.xlabel("Population")
 plt.ylabel("P-S Value")
-plt.title("Cumulative P-S Curves")
+plt.title("Unweighted P-S Curves")
 plt.ticklabel_format(axis='x', style='plain')
 plt.legend(loc="best")
 plt.show()
